@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="SimpleDungeon/SimpleDungeon.csproj" />
+  <Project Path="TextAnimate/TextAnimate.csproj" Id="8425bb9d-d306-4ec0-82d0-8409d2394a29" />
 </Solution>
